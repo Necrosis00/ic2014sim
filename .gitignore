@@ -2,5 +2,9 @@ target/
 .project
 .settings
 .classpath
+build/
+nbproject/
+build.xml
+manifest.mf
 bin/
 test-output/
