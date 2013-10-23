@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package Robot;
+package robot;
 
 
 import java.util.List;

@@ -3,9 +3,9 @@
  * and open the template in the editor.
  */
 
-package zRubbish;
+package zrubbish;
 
-import Common.Position;
+import commons.Position;
 
 /**
  *

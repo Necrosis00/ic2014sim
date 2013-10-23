@@ -5,12 +5,13 @@
 
 package mangansimulator;
 
-import Common.Position;
-import Common.Range;
-import Common.Toolkit;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
+
+import commons.Position;
+import commons.Range;
+import commons.Toolkit;
 
 /**
  *
